@@ -1,0 +1,2 @@
+export(sps_fun,sps_interpolate,sps_prep,sps_eval)
+importFrom(plot3D, mesh, persp3D)

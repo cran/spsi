@@ -1,0 +1,13 @@
+f6b4d0ca12d6b83b62e06fcf892e6d49 *DESCRIPTION
+9decc7da3ac50e980581f6b2c41348d0 *NAMESPACE
+baa2da2a02adb6cc6c3a4849055203a0 *R/bivariate.R
+9b08d84ae28aac2bd5c84cfbe623b6d1 *R/derivcalculation.R
+a50a080d670fbb6b46146fdbfeaedec9 *R/evaluation.R
+e7749e17d9e842f2f8690d10b31c95d3 *R/spsi.R
+a08b23b74bf30c365ed9b846bf50306c *R/univariate.R
+363e9a8d3a6ca833015d4cf5a1ba9f03 *data/akima.rda
+a0b5fe71b9f53d4f9283d8fe31cb96b7 *man/akima.Rd
+42b8da4b572e51bf2631417ababc9e0c *man/sps_eval.Rd
+efd0a780a627dbb53350843249a323a5 *man/sps_fun.Rd
+310eceba2db90aed1945723a937c9a35 *man/sps_prep.Rd
+31290bd136f3c3a867b68de040904300 *man/spsi-package.Rd
